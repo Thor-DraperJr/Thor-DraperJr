@@ -6,16 +6,7 @@ My path into cybersecurity included the National Guard, sales, sales leadership,
 
 ## What I Build
 
-I use VS Code, GitHub Copilot, Azure, and MCP to create security labs, agent workflows, teaching tools, and small products. Current projects include:
-
-| Project | What it demonstrates |
-| --- | --- |
-| [Social Promoter MCP](https://github.com/Thor-DraperJr/social-promoter-mcp) | A published TypeScript MCP server for voice-aware content drafting, quality scoring, cost controls, policy checks, and explicitly approved publishing. |
-| [ThorLabs](https://github.com/Thor-DraperJr/ThorLabs) | Reproducible Microsoft security demos built with Bicep, validation paths, and customer-centered security narratives. |
-| [Loop Improver MCP](https://github.com/Thor-DraperJr/loop-improver-mcp) | A Python MCP server that evaluates and modernizes repository guidance for sustained work with coding agents. |
-| [First PR Practice](https://github.com/Thor-DraperJr/first-pr-practice) | A workshop repository that helps new contributors learn branches, diffs, pull requests, review, and merge workflows with Copilot in VS Code. |
-| [AI Maker Toolkit](https://github.com/Thor-DraperJr/ai-maker-toolkit) | Reusable skills, agents, MCP servers, and workflows for professionals building and publishing with AI. |
-| [Personal Site](https://thor-draperjr.github.io/) | Articles and working notes about security, cloud, AI, leadership, and career development. |
+I use VS Code, GitHub Copilot, Azure, and MCP to build security labs, agent workflows, and teaching tools. I write about that work, and what it taught me, at [thordraperjr.com](https://thordraperjr.com/).
 
 ## Areas Of Focus
 
@@ -28,5 +19,5 @@ I use VS Code, GitHub Copilot, Azure, and MCP to create security labs, agent wor
 
 ## Elsewhere
 
-- [Personal site](https://thor-draperjr.github.io/)
+- [thordraperjr.com](https://thordraperjr.com/)
 - [LinkedIn](https://www.linkedin.com/in/thor-draperjr/)
